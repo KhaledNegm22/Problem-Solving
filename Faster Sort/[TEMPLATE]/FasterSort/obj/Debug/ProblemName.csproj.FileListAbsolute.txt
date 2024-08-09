@@ -1,0 +1,29 @@
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\TEMPLATE\[TEMPLATE]\PROBLEM_NAME\bin\Debug\ProblemName.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\TEMPLATE\[TEMPLATE]\PROBLEM_NAME\bin\Debug\ProblemName.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\TEMPLATE\[TEMPLATE]\PROBLEM_NAME\bin\Debug\ProblemName.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\TEMPLATE\[TEMPLATE]\PROBLEM_NAME\obj\Debug\ProblemName.csproj.AssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\TEMPLATE\[TEMPLATE]\PROBLEM_NAME\obj\Debug\ProblemName.csproj.CoreCompileInputs.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\TEMPLATE\[TEMPLATE]\PROBLEM_NAME\obj\Debug\ProblemName.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\TEMPLATE\[TEMPLATE]\PROBLEM_NAME\obj\Debug\ProblemName.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\TEMPLATE\[SOLUTION]\PROBLEM_NAME\bin\Debug\ProblemName.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\TEMPLATE\[SOLUTION]\PROBLEM_NAME\bin\Debug\ProblemName.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\TEMPLATE\[SOLUTION]\PROBLEM_NAME\bin\Debug\ProblemName.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\TEMPLATE\[SOLUTION]\PROBLEM_NAME\obj\Debug\ProblemName.csproj.AssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\TEMPLATE\[SOLUTION]\PROBLEM_NAME\obj\Debug\ProblemName.csproj.CoreCompileInputs.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\TEMPLATE\[SOLUTION]\PROBLEM_NAME\obj\Debug\ProblemName.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\TEMPLATE\[SOLUTION]\PROBLEM_NAME\obj\Debug\ProblemName.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\bin\Debug\ProblemName.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\bin\Debug\ProblemName.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\bin\Debug\ProblemName.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\obj\Debug\ProblemName.csproj.AssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\obj\Debug\ProblemName.csproj.CoreCompileInputs.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\obj\Debug\ProblemName.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\obj\Debug\ProblemName.pdb
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\obj\Debug\ProblemName.csproj.AssemblyReference.cache
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\obj\Debug\ProblemName.csproj.SuggestedBindingRedirects.cache
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\obj\Debug\ProblemName.csproj.CoreCompileInputs.cache
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\obj\Debug\ProblemName.exe
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\obj\Debug\ProblemName.pdb
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\bin\Debug\ProblemName.exe.config
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\bin\Debug\ProblemName.exe
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[SOLUTION]\PROBLEM_NAME\bin\Debug\ProblemName.pdb

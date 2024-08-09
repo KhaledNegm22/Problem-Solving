@@ -1,0 +1,16 @@
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[SOLUTION]\CommonElements\obj\Debug\CommonElements.csproj.AssemblyReference.cache
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[SOLUTION]\CommonElements\obj\Debug\CommonElements.csproj.SuggestedBindingRedirects.cache
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[SOLUTION]\CommonElements\obj\Debug\CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[SOLUTION]\CommonElements\bin\Debug\CommonElements.exe.config
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[SOLUTION]\CommonElements\bin\Debug\CommonElements.exe
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[SOLUTION]\CommonElements\bin\Debug\CommonElements.pdb
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[SOLUTION]\CommonElements\obj\Debug\CommonElements.exe
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignemnt 1\[TEMPLATE & EXAMPLE]\[TEMPLATE & EXAMPLE]\[SOLUTION]\CommonElements\obj\Debug\CommonElements.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] CommonItems\[SOLUTION]\CommonElements\bin\Debug\CommonElements.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] CommonItems\[SOLUTION]\CommonElements\bin\Debug\CommonElements.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] CommonItems\[SOLUTION]\CommonElements\bin\Debug\CommonElements.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] CommonItems\[SOLUTION]\CommonElements\obj\Debug\CommonElements.csproj.AssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] CommonItems\[SOLUTION]\CommonElements\obj\Debug\CommonElements.csproj.SuggestedBindingRedirects.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] CommonItems\[SOLUTION]\CommonElements\obj\Debug\CommonElements.csproj.CoreCompileInputs.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] CommonItems\[SOLUTION]\CommonElements\obj\Debug\CommonElements.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U] CommonItems\[SOLUTION]\CommonElements\obj\Debug\CommonElements.pdb

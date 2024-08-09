@@ -1,0 +1,32 @@
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\COMPETITIONS\FASTER_SORT\[SOLUTION]\FasterSort\obj\Debug\FasterSort.csproj.AssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\COMPETITIONS\FASTER_SORT\[SOLUTION]\FasterSort\obj\Debug\FasterSort.csproj.SuggestedBindingRedirects.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\COMPETITIONS\FASTER_SORT\[SOLUTION]\FasterSort\obj\Debug\FasterSort.csproj.CoreCompileInputs.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\COMPETITIONS\FASTER_SORT\[SOLUTION]\FasterSort\bin\Debug\FasterSort.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\COMPETITIONS\FASTER_SORT\[SOLUTION]\FasterSort\bin\Debug\FasterSort.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\COMPETITIONS\FASTER_SORT\[SOLUTION]\FasterSort\bin\Debug\FasterSort.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\COMPETITIONS\FASTER_SORT\[SOLUTION]\FasterSort\obj\Debug\FasterSort.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\COMPETITIONS\FASTER_SORT\[SOLUTION]\FasterSort\obj\Debug\FasterSort.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\COMPETITIONS\FASTER_SORT\[TEMPLATE]\FasterSort\bin\Debug\FasterSort.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\COMPETITIONS\FASTER_SORT\[TEMPLATE]\FasterSort\bin\Debug\FasterSort.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\COMPETITIONS\FASTER_SORT\[TEMPLATE]\FasterSort\bin\Debug\FasterSort.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\COMPETITIONS\FASTER_SORT\[TEMPLATE]\FasterSort\obj\Debug\FasterSort.csproj.AssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\COMPETITIONS\FASTER_SORT\[TEMPLATE]\FasterSort\obj\Debug\FasterSort.csproj.SuggestedBindingRedirects.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\COMPETITIONS\FASTER_SORT\[TEMPLATE]\FasterSort\obj\Debug\FasterSort.csproj.CoreCompileInputs.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\COMPETITIONS\FASTER_SORT\[TEMPLATE]\FasterSort\obj\Debug\FasterSort.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\COMPETITIONS\FASTER_SORT\[TEMPLATE]\FasterSort\obj\Debug\FasterSort.pdb
+C:\Graduation_project lvl 4\2nd term\algoritms new\2 Faster Sort\[TEMPLATE]\FasterSort\bin\Debug\FasterSort.exe.config
+C:\Graduation_project lvl 4\2nd term\algoritms new\2 Faster Sort\[TEMPLATE]\FasterSort\bin\Debug\FasterSort.exe
+C:\Graduation_project lvl 4\2nd term\algoritms new\2 Faster Sort\[TEMPLATE]\FasterSort\bin\Debug\FasterSort.pdb
+C:\Graduation_project lvl 4\2nd term\algoritms new\2 Faster Sort\[TEMPLATE]\FasterSort\obj\Debug\FasterSort.csproj.AssemblyReference.cache
+C:\Graduation_project lvl 4\2nd term\algoritms new\2 Faster Sort\[TEMPLATE]\FasterSort\obj\Debug\FasterSort.csproj.SuggestedBindingRedirects.cache
+C:\Graduation_project lvl 4\2nd term\algoritms new\2 Faster Sort\[TEMPLATE]\FasterSort\obj\Debug\FasterSort.csproj.CoreCompileInputs.cache
+C:\Graduation_project lvl 4\2nd term\algoritms new\2 Faster Sort\[TEMPLATE]\FasterSort\obj\Debug\FasterSort.exe
+C:\Graduation_project lvl 4\2nd term\algoritms new\2 Faster Sort\[TEMPLATE]\FasterSort\obj\Debug\FasterSort.pdb
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\2 Faster Sort\[TEMPLATE]\FasterSort\bin\Debug\FasterSort.exe.config
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\2 Faster Sort\[TEMPLATE]\FasterSort\bin\Debug\FasterSort.exe
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\2 Faster Sort\[TEMPLATE]\FasterSort\bin\Debug\FasterSort.pdb
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\2 Faster Sort\[TEMPLATE]\FasterSort\obj\Debug\FasterSort.csproj.AssemblyReference.cache
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\2 Faster Sort\[TEMPLATE]\FasterSort\obj\Debug\FasterSort.csproj.SuggestedBindingRedirects.cache
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\2 Faster Sort\[TEMPLATE]\FasterSort\obj\Debug\FasterSort.csproj.CoreCompileInputs.cache
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\2 Faster Sort\[TEMPLATE]\FasterSort\obj\Debug\FasterSort.exe
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\2 Faster Sort\[TEMPLATE]\FasterSort\obj\Debug\FasterSort.pdb
