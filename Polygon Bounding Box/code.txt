@@ -1,0 +1,186 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Security.Cryptography;
+using System.Text;
+using System.Threading.Tasks;
+using static Problem.BoundingBoxmethods;
+
+namespace Problem
+{
+    // *****************************************
+    // DON'T CHANGE CLASS OR FUNCTION NAME
+    // YOU CAN ADD FUNCTIONS IF YOU NEED TO
+    // *****************************************
+
+    #region Helper structures
+    public struct BoundingBox
+    {
+        public double minX;
+        public double minY;
+        public double maxX;
+        public double maxY;
+    }
+
+    public struct Point
+    {
+        public double X;
+        public double Y;
+    }
+    #endregion
+
+    public static class PROBLEM_CLASS
+    {
+        #region YOUR CODE IS HERE
+
+        //Your Code is Here:
+        //==================
+        /// <summary>
+        /// This function shall find the bounding box of a given convex polygon in an efficient way (i.e. minX, maxX, minY, maxY)..
+        /// </summary>
+        /// 
+        /// <param name="Points">Array of the convex polygon points in counterclockwise order</param>
+        /// 
+        /// <param name="N">The number of the polygon's points</param>
+        /// 
+        /// <returns>BoundingBox object containing the values of the four points of the bounding box</returns>
+        public static BoundingBox RequiredFunction(Point[] Points, int N)
+        {
+
+            double minX = FindMinimummX(Points);
+            double maxX = FindMaximummX(Points, N);
+
+            
+            double minY = FindMinimummY(Points, N);
+            double maxY = FindMaximummY(Points, N);
+
+            return new BoundingBox { 
+                minX = minX, 
+                minY = minY,
+                maxX = maxX,
+                maxY = maxY 
+            };
+        }
+        
+        #endregion 
+    }
+    public static class BoundingBoxmethods
+    {
+
+        public static double FindMinimummX(Point[] arrayofpoints)
+        {
+            return arrayofpoints[0].X;
+        }
+
+        public static double FindMaximummX(Point[] arrayofpoints, int N)
+        {
+            int maxXIndex = MaxX(arrayofpoints, 0, N - 1);
+            return arrayofpoints[maxXIndex].X;
+        }
+
+        public static double FindMinimummY(Point[] arrayofpoints, int N)
+        {
+            int minYIndex = MinY(arrayofpoints, 0, N - 1);
+            return arrayofpoints[minYIndex].Y;
+        }
+
+        public static double FindMaximummY(Point[] arrayofpoints, int N)
+        {
+            int maxYIndex = MaxY(arrayofpoints, 0, N - 1);
+            return arrayofpoints[maxYIndex].Y;
+        }
+        
+        public static int MaxX(Point[] arrofpoints, int ind, int N)
+        {
+
+            if (ind == N)
+            {
+                return ind;
+            }
+
+            int mid = ind + (N - ind) / 2;
+
+            if (arrofpoints[mid].X > arrofpoints[mid - 1].X &&
+                arrofpoints[mid].X > arrofpoints[mid + 1].X)
+            {
+                return mid;
+            }
+
+            if (arrofpoints[mid].X > arrofpoints[mid - 1].X)
+            {
+                return MaxX(arrofpoints, mid + 1, N);
+            }
+            else
+            {
+                return MaxX(arrofpoints, ind, mid);
+            }
+        }
+
+        public static int MaxY(Point[] arrofpoints, int ind, int N)
+        {
+
+            if (ind == N)
+            {
+                return ind;
+            }
+
+            int mid = ind + (N - ind) / 2;
+
+            if (arrofpoints[mid].Y > arrofpoints[mid - 1].Y 
+                && arrofpoints[mid].Y > arrofpoints[mid + 1].Y)
+            {
+                return mid;
+            }
+
+            if (arrofpoints[mid].Y < arrofpoints[mid - 1].Y)
+            {
+                return MaxY(arrofpoints, ind, mid);
+                
+            }
+            else
+            {
+                return MaxY(arrofpoints, mid + 1, N);
+            }
+        }
+
+        public static int MinY(Point[] arrofpoints, int ind, int N)
+        {
+            if (ind == 0)
+            {
+                if (arrofpoints[0].Y < arrofpoints[1].Y)
+                {
+                    return 0;
+                }
+                else
+                {
+                    return MinY(arrofpoints, ind + 1, N);
+                }
+            }
+
+
+            if (ind == N)
+            {
+                return ind;
+            }
+
+            int mid = ind + (N - ind) / 2;
+
+            if (arrofpoints[mid].Y < arrofpoints[mid - 1].Y 
+                && arrofpoints[mid].Y < arrofpoints[mid + 1].Y)
+            {
+                return mid;
+            }
+
+            if (arrofpoints[mid].Y > arrofpoints[mid + 1].Y)
+            {
+                return MinY(arrofpoints, mid + 1, N);
+                
+            }
+            else
+            {
+                return MinY(arrofpoints, ind, mid);
+            }
+        }
+
+    }
+}
