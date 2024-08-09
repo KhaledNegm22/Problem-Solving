@@ -1,0 +1,36 @@
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[4] Sum of Min\[SOLUTION]\SumOfMin\bin\Debug\SumOfMin.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[4] Sum of Min\[SOLUTION]\SumOfMin\obj\Debug\SumOfMin.csprojResolveAssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[4] Sum of Min\[SOLUTION]\SumOfMin\bin\Debug\SumOfMin.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[4] Sum of Min\[SOLUTION]\SumOfMin\bin\Debug\SumOfMin.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[4] Sum of Min\[SOLUTION]\SumOfMin\bin\Debug\GraphGenerator.dll
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[4] Sum of Min\[SOLUTION]\SumOfMin\bin\Debug\GraphGenerator.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[4] Sum of Min\[SOLUTION]\SumOfMin\obj\Debug\SumOfMin.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[4] Sum of Min\[SOLUTION]\SumOfMin\obj\Debug\SumOfMin.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[4] Sum of Min\[TEMPLATE]\SumOfMin\bin\Debug\SumOfMin.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[4] Sum of Min\[TEMPLATE]\SumOfMin\obj\Debug\SumOfMin.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[4] Sum of Min\[TEMPLATE]\SumOfMin\obj\Debug\SumOfMin.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[4] Sum of Min\[TEMPLATE]\SumOfMin\bin\Debug\SumOfMin.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[4] Sum of Min\[TEMPLATE]\SumOfMin\bin\Debug\SumOfMin.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[4] Sum of Min\[TEMPLATE]\SumOfMin\bin\Debug\GraphGenerator.dll
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[4] Sum of Min\[TEMPLATE]\SumOfMin\bin\Debug\GraphGenerator.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GRAPH\[4] Sum of Min\[TEMPLATE]\SumOfMin\obj\Debug\SumOfMin.csprojResolveAssemblyReference.cache
+C:\lvl3\2nd term\ALGO\ass3\[TEMPLATE]\SumOfMin\bin\Debug\SumOfMin.exe.config
+C:\lvl3\2nd term\ALGO\ass3\[TEMPLATE]\SumOfMin\bin\Debug\SumOfMin.exe
+C:\lvl3\2nd term\ALGO\ass3\[TEMPLATE]\SumOfMin\bin\Debug\SumOfMin.pdb
+C:\lvl3\2nd term\ALGO\ass3\[TEMPLATE]\SumOfMin\bin\Debug\GraphGenerator.pdb
+C:\lvl3\2nd term\ALGO\ass3\[TEMPLATE]\SumOfMin\obj\Debug\SumOfMin.csproj.AssemblyReference.cache
+C:\lvl3\2nd term\ALGO\ass3\[TEMPLATE]\SumOfMin\obj\Debug\SumOfMin.csproj.SuggestedBindingRedirects.cache
+C:\lvl3\2nd term\ALGO\ass3\[TEMPLATE]\SumOfMin\obj\Debug\SumOfMin.csproj.CoreCompileInputs.cache
+C:\lvl3\2nd term\ALGO\ass3\[TEMPLATE]\SumOfMin\obj\Debug\SumOfMin.csproj.CopyComplete
+C:\lvl3\2nd term\ALGO\ass3\[TEMPLATE]\SumOfMin\obj\Debug\SumOfMin.exe
+C:\lvl3\2nd term\ALGO\ass3\[TEMPLATE]\SumOfMin\obj\Debug\SumOfMin.pdb
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\sum of min\[TEMPLATE]\SumOfMin\bin\Debug\SumOfMin.exe.config
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\sum of min\[TEMPLATE]\SumOfMin\bin\Debug\SumOfMin.exe
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\sum of min\[TEMPLATE]\SumOfMin\bin\Debug\SumOfMin.pdb
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\sum of min\[TEMPLATE]\SumOfMin\bin\Debug\GraphGenerator.pdb
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\sum of min\[TEMPLATE]\SumOfMin\obj\Debug\SumOfMin.csproj.AssemblyReference.cache
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\sum of min\[TEMPLATE]\SumOfMin\obj\Debug\SumOfMin.csproj.SuggestedBindingRedirects.cache
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\sum of min\[TEMPLATE]\SumOfMin\obj\Debug\SumOfMin.csproj.CoreCompileInputs.cache
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\sum of min\[TEMPLATE]\SumOfMin\obj\Debug\SumOfMin.csproj.CopyComplete
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\sum of min\[TEMPLATE]\SumOfMin\obj\Debug\SumOfMin.exe
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\sum of min\[TEMPLATE]\SumOfMin\obj\Debug\SumOfMin.pdb
