@@ -1,0 +1,19 @@
+D:\FCIS\3rd year\2nd term\ALGO\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\bin\Debug\inout.txt
+D:\FCIS\3rd year\2nd term\ALGO\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\bin\Debug\sample.txt
+D:\FCIS\3rd year\2nd term\ALGO\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.exe.config
+D:\FCIS\3rd year\2nd term\ALGO\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.exe
+D:\FCIS\3rd year\2nd term\ALGO\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.pdb
+D:\FCIS\3rd year\2nd term\ALGO\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.csproj.CoreCompileInputs.cache
+D:\FCIS\3rd year\2nd term\ALGO\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.exe
+D:\FCIS\3rd year\2nd term\ALGO\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.pdb
+D:\FCIS\3rd year\2nd term\ALGO\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.csproj.AssemblyReference.cache
+C:\lvl3\2nd term\ALGO\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\bin\Debug\inout.txt
+C:\lvl3\2nd term\ALGO\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\bin\Debug\sample.txt
+C:\lvl3\2nd term\ALGO\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.exe.config
+C:\lvl3\2nd term\ALGO\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.exe
+C:\lvl3\2nd term\ALGO\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.pdb
+C:\lvl3\2nd term\ALGO\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.csproj.AssemblyReference.cache
+C:\lvl3\2nd term\ALGO\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.csproj.SuggestedBindingRedirects.cache
+C:\lvl3\2nd term\ALGO\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.csproj.CoreCompileInputs.cache
+C:\lvl3\2nd term\ALGO\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.exe
+C:\lvl3\2nd term\ALGO\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.pdb

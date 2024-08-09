@@ -1,0 +1,14 @@
+D:\FCIS\3rd year\2nd term\ALGO\ASM3\[2] Find the Root\FindTheRoot\FindTheRoot\bin\Debug\FindTheRoot.exe
+D:\FCIS\3rd year\2nd term\ALGO\ASM3\[2] Find the Root\FindTheRoot\FindTheRoot\bin\Debug\FindTheRoot.pdb
+D:\FCIS\3rd year\2nd term\ALGO\ASM3\[2] Find the Root\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.csproj.AssemblyReference.cache
+D:\FCIS\3rd year\2nd term\ALGO\ASM3\[2] Find the Root\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.csproj.CoreCompileInputs.cache
+D:\FCIS\3rd year\2nd term\ALGO\ASM3\[2] Find the Root\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.exe
+D:\FCIS\3rd year\2nd term\ALGO\ASM3\[2] Find the Root\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.pdb
+C:\lvl3\2nd term\ALGO\ASM3\[2] Find the Root\FindTheRoot\FindTheRoot\bin\Debug\FindTheRoot.exe.config
+C:\lvl3\2nd term\ALGO\ASM3\[2] Find the Root\FindTheRoot\FindTheRoot\bin\Debug\FindTheRoot.exe
+C:\lvl3\2nd term\ALGO\ASM3\[2] Find the Root\FindTheRoot\FindTheRoot\bin\Debug\FindTheRoot.pdb
+C:\lvl3\2nd term\ALGO\ASM3\[2] Find the Root\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.csproj.AssemblyReference.cache
+C:\lvl3\2nd term\ALGO\ASM3\[2] Find the Root\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.csproj.SuggestedBindingRedirects.cache
+C:\lvl3\2nd term\ALGO\ASM3\[2] Find the Root\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.csproj.CoreCompileInputs.cache
+C:\lvl3\2nd term\ALGO\ASM3\[2] Find the Root\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.exe
+C:\lvl3\2nd term\ALGO\ASM3\[2] Find the Root\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.pdb
