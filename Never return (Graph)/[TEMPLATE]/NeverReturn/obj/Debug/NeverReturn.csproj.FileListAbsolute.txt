@@ -1,0 +1,8 @@
+C:\Graduation_project lvl 4\2nd term\algoritms new\ass3 graph\[TEMPLATE]\NeverReturn\bin\Debug\NeverReturn.exe.config
+C:\Graduation_project lvl 4\2nd term\algoritms new\ass3 graph\[TEMPLATE]\NeverReturn\bin\Debug\NeverReturn.exe
+C:\Graduation_project lvl 4\2nd term\algoritms new\ass3 graph\[TEMPLATE]\NeverReturn\bin\Debug\NeverReturn.pdb
+C:\Graduation_project lvl 4\2nd term\algoritms new\ass3 graph\[TEMPLATE]\NeverReturn\obj\Debug\NeverReturn.csproj.AssemblyReference.cache
+C:\Graduation_project lvl 4\2nd term\algoritms new\ass3 graph\[TEMPLATE]\NeverReturn\obj\Debug\NeverReturn.csproj.SuggestedBindingRedirects.cache
+C:\Graduation_project lvl 4\2nd term\algoritms new\ass3 graph\[TEMPLATE]\NeverReturn\obj\Debug\NeverReturn.csproj.CoreCompileInputs.cache
+C:\Graduation_project lvl 4\2nd term\algoritms new\ass3 graph\[TEMPLATE]\NeverReturn\obj\Debug\NeverReturn.exe
+C:\Graduation_project lvl 4\2nd term\algoritms new\ass3 graph\[TEMPLATE]\NeverReturn\obj\Debug\NeverReturn.pdb
