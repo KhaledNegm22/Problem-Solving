@@ -1,0 +1,40 @@
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignment 2\[TEMPLATE & EXAMPLE]-working\[TEMPLATE & EXAMPLE]\[SOLUTION]\DivideCoins\bin\Debug\DivideCoins.exe.config
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignment 2\[TEMPLATE & EXAMPLE]-working\[TEMPLATE & EXAMPLE]\[SOLUTION]\DivideCoins\bin\Debug\DivideCoins.exe
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignment 2\[TEMPLATE & EXAMPLE]-working\[TEMPLATE & EXAMPLE]\[SOLUTION]\DivideCoins\bin\Debug\DivideCoins.pdb
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignment 2\[TEMPLATE & EXAMPLE]-working\[TEMPLATE & EXAMPLE]\[SOLUTION]\DivideCoins\obj\Debug\DivideCoins.csproj.AssemblyReference.cache
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignment 2\[TEMPLATE & EXAMPLE]-working\[TEMPLATE & EXAMPLE]\[SOLUTION]\DivideCoins\obj\Debug\DivideCoins.csproj.SuggestedBindingRedirects.cache
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignment 2\[TEMPLATE & EXAMPLE]-working\[TEMPLATE & EXAMPLE]\[SOLUTION]\DivideCoins\obj\Debug\DivideCoins.csproj.CoreCompileInputs.cache
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignment 2\[TEMPLATE & EXAMPLE]-working\[TEMPLATE & EXAMPLE]\[SOLUTION]\DivideCoins\obj\Debug\DivideCoins.exe
+C:\Users\hosam\Downloads\TAs\Algo' 2023\Algo'24\Assignment 2\[TEMPLATE & EXAMPLE]-working\[TEMPLATE & EXAMPLE]\[SOLUTION]\DivideCoins\obj\Debug\DivideCoins.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] DividingCoins\[SOLUTION]\DivideCoins\bin\Debug\DivideCoins.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] DividingCoins\[SOLUTION]\DivideCoins\bin\Debug\DivideCoins.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] DividingCoins\[SOLUTION]\DivideCoins\bin\Debug\DivideCoins.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] DividingCoins\[SOLUTION]\DivideCoins\obj\Debug\DivideCoins.csproj.AssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] DividingCoins\[SOLUTION]\DivideCoins\obj\Debug\DivideCoins.csproj.SuggestedBindingRedirects.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] DividingCoins\[SOLUTION]\DivideCoins\obj\Debug\DivideCoins.csproj.CoreCompileInputs.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] DividingCoins\[SOLUTION]\DivideCoins\obj\Debug\DivideCoins.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] DividingCoins\[SOLUTION]\DivideCoins\obj\Debug\DivideCoins.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] DividingCoins\[TEMPLATE]\DivideCoins\bin\Debug\DivideCoins.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] DividingCoins\[TEMPLATE]\DivideCoins\bin\Debug\DivideCoins.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] DividingCoins\[TEMPLATE]\DivideCoins\bin\Debug\DivideCoins.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] DividingCoins\[TEMPLATE]\DivideCoins\obj\Debug\DivideCoins.csproj.AssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] DividingCoins\[TEMPLATE]\DivideCoins\obj\Debug\DivideCoins.csproj.SuggestedBindingRedirects.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] DividingCoins\[TEMPLATE]\DivideCoins\obj\Debug\DivideCoins.csproj.CoreCompileInputs.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] DividingCoins\[TEMPLATE]\DivideCoins\obj\Debug\DivideCoins.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U] DividingCoins\[TEMPLATE]\DivideCoins\obj\Debug\DivideCoins.pdb
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignment 2 d&C and greedy\greedy\[TEMPLATE]\DivideCoins\bin\Debug\DivideCoins.exe.config
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignment 2 d&C and greedy\greedy\[TEMPLATE]\DivideCoins\bin\Debug\DivideCoins.exe
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignment 2 d&C and greedy\greedy\[TEMPLATE]\DivideCoins\bin\Debug\DivideCoins.pdb
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignment 2 d&C and greedy\greedy\[TEMPLATE]\DivideCoins\obj\Debug\DivideCoins.csproj.AssemblyReference.cache
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignment 2 d&C and greedy\greedy\[TEMPLATE]\DivideCoins\obj\Debug\DivideCoins.csproj.SuggestedBindingRedirects.cache
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignment 2 d&C and greedy\greedy\[TEMPLATE]\DivideCoins\obj\Debug\DivideCoins.csproj.CoreCompileInputs.cache
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignment 2 d&C and greedy\greedy\[TEMPLATE]\DivideCoins\obj\Debug\DivideCoins.exe
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignment 2 d&C and greedy\greedy\[TEMPLATE]\DivideCoins\obj\Debug\DivideCoins.pdb
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\assignment 2 d&C and greedy\greedy\[TEMPLATE]\DivideCoins\bin\Debug\DivideCoins.exe.config
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\assignment 2 d&C and greedy\greedy\[TEMPLATE]\DivideCoins\bin\Debug\DivideCoins.exe
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\assignment 2 d&C and greedy\greedy\[TEMPLATE]\DivideCoins\bin\Debug\DivideCoins.pdb
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\assignment 2 d&C and greedy\greedy\[TEMPLATE]\DivideCoins\obj\Debug\DivideCoins.csproj.AssemblyReference.cache
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\assignment 2 d&C and greedy\greedy\[TEMPLATE]\DivideCoins\obj\Debug\DivideCoins.csproj.SuggestedBindingRedirects.cache
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\assignment 2 d&C and greedy\greedy\[TEMPLATE]\DivideCoins\obj\Debug\DivideCoins.csproj.CoreCompileInputs.cache
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\assignment 2 d&C and greedy\greedy\[TEMPLATE]\DivideCoins\obj\Debug\DivideCoins.exe
+C:\Graduation_project lvl 4\2nd term\algoritms new\assignments\assignment 2 d&C and greedy\greedy\[TEMPLATE]\DivideCoins\obj\Debug\DivideCoins.pdb
