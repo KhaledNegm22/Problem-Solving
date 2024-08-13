@@ -1,0 +1,5 @@
+C:\lvl3\2nd term\Graphics\assignment\Integer Multiplication\obj\Debug\net6.0\Integer Multiplication.csproj.AssemblyReference.cache
+C:\lvl3\2nd term\Graphics\assignment\Integer Multiplication\obj\Debug\net6.0\Integer Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\lvl3\2nd term\Graphics\assignment\Integer Multiplication\obj\Debug\net6.0\Integer Multiplication.AssemblyInfoInputs.cache
+C:\lvl3\2nd term\Graphics\assignment\Integer Multiplication\obj\Debug\net6.0\Integer Multiplication.AssemblyInfo.cs
+C:\lvl3\2nd term\Graphics\assignment\Integer Multiplication\obj\Debug\net6.0\Integer Multiplication.csproj.CoreCompileInputs.cache
